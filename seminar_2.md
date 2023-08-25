@@ -14,3 +14,13 @@ git add namefile
 ```
 git add .
 ```
+## Другие используемые команды
+**Часто используются следующие команды:**
+1. git commit
+2. git config
+3. git log
+4. git status
+5. git reflog
+6. git diff
+7. git cherry-pick
+8. history
