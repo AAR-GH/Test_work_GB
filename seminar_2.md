@@ -32,6 +32,9 @@ git add .
 
 ## Добавление изображений
 
+kja;jan;n
+lkjblkblkjb
+lkjbkljlkj
 
 ## Добавление исходного кода
 
